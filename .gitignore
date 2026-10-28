@@ -1,0 +1,44 @@
+# ── Unity: то, что Unity пересоздаёт сама ──
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ── Файлы редакторов кода (Visual Studio, Rider, VS Code) ──
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+.vsconfig
+
+# ── Сборки и служебное ──
+*.tmp
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# ── Архивы проекта в корне (например Bak.zip) ──
+/*.zip
